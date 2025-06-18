@@ -5,9 +5,9 @@ How Do I Sign In to My ExpressVPN Account?
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: click-sign-in.png
+.. image:: sign-in.jpg
    :alt: Express VPN Sign In
-   :width: 500 px
+   :width: 350 px
    :align: center
    :target: https://aclogportal.com/expressvpn
 
