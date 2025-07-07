@@ -6,8 +6,8 @@ How Do I Sign In to My ExpressVPN Account?
    :caption: Contents:
 Learn how to log in to VPN Express easily. Follow this guide to ensure a smooth and secure login process for your online privacy. 
  
-.. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
-   :alt: At&t
+.. image:: sign-in.jpg
+   :alt: Express VPN
    :width: 400px
    :align: center
    :target: https://expressvpnaccount.com
